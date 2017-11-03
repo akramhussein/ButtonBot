@@ -1,0 +1,15 @@
+PODS:
+  - Eureka (4.0.1)
+  - MBProgressHUD (1.0.0)
+
+DEPENDENCIES:
+  - Eureka
+  - MBProgressHUD
+
+SPEC CHECKSUMS:
+  Eureka: c8bd5cc07143b6f66268c208d28a246c99b41955
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+
+PODFILE CHECKSUM: e62aee81d26eb4ce6a272264758918b7e8fead73
+
+COCOAPODS: 1.3.1
