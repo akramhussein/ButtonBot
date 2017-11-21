@@ -1,8 +1,8 @@
 # ButtonBot
 
-ButtonBot allows two popular robot toys to be controlled using a single bluetooth access switch. It allows switch users to move beyond simple cause and effect allowing them to participate in a whole range of games and activities by controlling their robot.
+ButtonBot allows control of the MBot robot from MakeBlock using a single bluetooth access switch. It allows switch users to move beyond simple cause and effect allowing them to participate in a whole range of games and activities by controlling their robot.
 
-ButtonBot supports the MBot from MakeBlock. We hope to add support for more toy robots in the future.
+ButtonBot currently supports the MBot from MakeBlock. We hope to add support for more toy robots in the future.
 
 To use the app connect a bluetooth access switch (such as the Pretorian iSwitch) to your iOS device. The switch should be configured to send the enter command when pressed. Open the app and connect to the robot. The app will auto-scan between the different directions with a switch press causing the robot to drive in that direction.
 
